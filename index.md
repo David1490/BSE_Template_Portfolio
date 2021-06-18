@@ -1,5 +1,5 @@
 ﻿# Phone Controlled Robotic Arm
-This project is an Arduino Robot Arm which can be wirelessly controlled and programmed using a custom-build Android application. 
+This project is an Robotic Arm which can be controlled using an app on your phone that is created using MIT App Inventor. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
