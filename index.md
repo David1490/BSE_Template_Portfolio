@@ -1,5 +1,5 @@
 ﻿# Phone Controlled Robotic Arm
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+This project is an Arduino Robot Arm which can be wirelessly controlled and programmed using a custom-build Android application. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
