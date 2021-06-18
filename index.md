@@ -1,5 +1,5 @@
 ﻿# Phone Controlled Robotic Arm
-This project is an Robotic Arm which can be controlled using an app on your phone that is created using MIT App Inventor. 
+This project is a Robot Arm which can be controlled using an app on your phone that is created using MIT App Inventor. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
