@@ -1,4 +1,3 @@
-![Screenshot (347)](https://user-images.githubusercontent.com/86091730/123485823-bf4e9480-d5bf-11eb-9392-426ffbe2dc1e.png)
 ﻿# Phone Controlled Robotic Arm
 This project is a Robot Arm which can be controlled using an app on your phone that is created using MIT App Inventor. 
 
@@ -25,3 +24,5 @@ My first milestone was building the robot arm and hooking up all the wires onto 
 I programmed the Arduino so that I can control the robot arm from the serial monitor of the application. I can control the servos separately on the serial monitor or control all of them at once.
 
 [![David C Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1624425325/video_to_markdown/images/youtube--ndd1jRbl1JI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=ndd1jRbl1JI "David C Milestone 1"){:target="_blank" rel="noopener"}
+
+![Screenshot (347)](https://user-images.githubusercontent.com/86091730/123485823-bf4e9480-d5bf-11eb-9392-426ffbe2dc1e.png){:target="_blank" rel="noopener"}
