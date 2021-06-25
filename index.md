@@ -1,3 +1,4 @@
+![Screenshot (347)](https://user-images.githubusercontent.com/86091730/123485823-bf4e9480-d5bf-11eb-9392-426ffbe2dc1e.png)
 ﻿# Phone Controlled Robotic Arm
 This project is a Robot Arm which can be controlled using an app on your phone that is created using MIT App Inventor. 
 
