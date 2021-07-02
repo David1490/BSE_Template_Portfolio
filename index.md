@@ -1,4 +1,5 @@
 
+
 # Phone Controlled Robotic Arm
 This project is a Robot Arm which can be controlled using an app on your phone that is created using MIT App Inventor. 
 
@@ -10,6 +11,8 @@ This project is a Robot Arm which can be controlled using an app on your phone t
 # Final Milestone
 
 For my final milestone, I was able to code it so that I can control the robot arm from the app on my phone, and I also added a small modification. I added an ultrasonic sensor which will detect if there is any object near the claw and it will notify me through the app and it will also tell me how far away is the object from the claw. What an ultrasonic sensor does is that it sends a soundwave through one end of the sensor and recieves the soundwave through the other, and this is how it can tall if there is an object intfront of it and how far away is it. For this to work I needed to code the app so that it will take in inputs from the ESP32, because I connected the ultrasonic sensor to the ESP32. I created a global variable which will store the distance that the ESP32 sends in. A global variable is a variable that can be access anywhere throughout the code. Once the variable is declared, I used if statements so that if there is something being printed to the bluetooth serial monitor, the code will read it in and store it as the global variable. And from there I changed the text so that it will tell you that there is an object near by and how far away is it.
+
+![Screenshot (351)](https://user-images.githubusercontent.com/86091730/124228596-42408500-dac1-11eb-87cc-6cc4184afb84.png)
 
 {:target="_blank" rel="noopener"}
 
