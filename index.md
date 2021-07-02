@@ -23,7 +23,7 @@ For the coding portion on the MIT App Inventor website, I coded it so that whene
 
 [![David_BSE_Milestone2](https://res.cloudinary.com/marcomontalbano/image/upload/v1624650147/video_to_markdown/images/youtube--tUri4dxDE9c-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=tUri4dxDE9c "David_BSE_Milestone2"){:target="_blank" rel="noopener"}
 
-![app image](https://user-images.githubusercontent.com/86091730/124228785-8c296b00-dac1-11eb-81bd-b7ad167bda28.png  =250x250){:target="_blank" rel="noopener"}
+![app image](https://user-images.githubusercontent.com/86091730/124228785-8c296b00-dac1-11eb-81bd-b7ad167bda28.png){:target="_blank" rel="noopener"}
 
 ![Screenshot (349)](https://user-images.githubusercontent.com/86091730/123485932-f91f9b00-d5bf-11eb-8547-b542401377aa.png){:target="_blank" rel="noopener"}
 
