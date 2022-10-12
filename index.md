@@ -4,7 +4,7 @@ This project is a Robot Arm which can be controlled using an app on your phone t
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| David Chang | Monta Vista Highschool | Mechanical Engineering | Incoming Junior
+| David Chang | Monta Vista Highschool | Computer Engineering | Incoming Junior
 
  
 ![arm](https://user-images.githubusercontent.com/86091730/124319603-50c58580-db2f-11eb-9dab-4d096360b9c0.jpg){:target="_blank" rel="noopener"}
